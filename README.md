@@ -1,2 +1,2 @@
 # golang-wasm-react-spa-example
-Exemplary real world application built with Golang + WebAssembly + React
+A Single Page Application written in Golang, WebAssembly and React
